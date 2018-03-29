@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447333844262",
+    "firebase_url": "https://kusumkids-506b9.firebaseio.com",
+    "project_id": "kusumkids-506b9",
+    "storage_bucket": "kusumkids-506b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447333844262:android:922d9566e2964378",
+        "android_client_info": {
+          "package_name": "com.example.sanny.kusumkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447333844262-r6njggfdeq0170e848np8kfm8o4659tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanny.kusumkids",
+            "certificate_hash": "e6e7fcf0eba53a1ff971da8f5983b2b0615384a7"
+          }
+        },
+        {
+          "client_id": "447333844262-8c7iroclo39kdd00j42ltm4sa8rugqui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb1BrN2MWsawc8H6SOZNpjXYhTwn_QA_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447333844262-8c7iroclo39kdd00j42ltm4sa8rugqui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
